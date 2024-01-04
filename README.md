@@ -15,7 +15,7 @@ La seconde étape consiste à traduire le modèle conceptuel de l’étape 1 ver
 Lors de cette seconde étape, votre client pourra éventuellement préciser le cahier des charges ou ajouter des demandes spécifiques. Nous supposerons qu'il est maintenant trop tard pour modifier le schéma qui a été validé. Il faudra trouver une autre manière de répondre aux attentes du client.
 
 Second rendu :
-- dump complet de votre base (y compris les créations de tables)
+- dump complet de votre base (y compris les créations de tables); <br>
 - mini rapport avec le schéma relationnel corrigé, un court texte justifiant les types de données et contraintes choisies ainsi que votre réponse aux demandes supplémentaires du client.
 
 ### Mise en place du site web
@@ -25,7 +25,7 @@ Votre rendu pour cette dernière partie sera composé de :
 1. Un lien permettant d’accéder à la page d’accueil de votre site web. N’oubliez pas de fournir aussi tous les éléments utiles pour tester votre site, notamment nom d’utilisateur et mot de passe, si le site requiert une authentification. Attention, votre site web doit fonctionner sur le serveur de l’université.
 2. Une archive des pages web (php/html) ainsi qu’un nouveau dump de votre base (si celui-ci a été modifié après la partie 2) en précisant la nature des modifications.
 3. Un rapport final de 5 à 10 pages environ obligatoirement au format pdf. Ce rapport contiendra : <br>
-    — Une petite présentation du projet avec un petit manuel utilisateur;
-    — Une section technique reprenant les présentations des étapes 1 et 2;
-    — Une description technique des fonctionnalités du site web, présentant notamment quelques unes des requêtes SQL utilisées (les plus intéressantes d’un point de vue fonctionnel ou technique), leur fonctionnement et leur utilité;
-    — D’éventuelles pistes d’améliorations de votre travail.
+    — Une petite présentation du projet avec un petit manuel utilisateur; <br>
+    — Une section technique reprenant les présentations des étapes 1 et 2; <br>
+    — Une description technique des fonctionnalités du site web, présentant notamment quelques unes des requêtes SQL utilisées (les plus intéressantes d’un point de vue fonctionnel ou technique), leur fonctionnement et leur utilité; <br>
+    — D’éventuelles pistes d’améliorations de votre travail. 
