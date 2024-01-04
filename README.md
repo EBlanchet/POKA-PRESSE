@@ -23,7 +23,7 @@ voir **src/Schema_relationnel.svg**
 ### Mise en place du site web
 Dans cette dernière étape, vous finirez de remplir votre base de données et vous mettrez en place la partie web de votre projet en respectant le cahier des charges fourni.
 Le cahier des charges étant souvent très léger (un client ne sait pas toujours très bien ce qu’il veut), vous ferez preuve d’initiative pour apporter des fonctionnalités additionnelles qui vous semblent utiles. Plus le cahier des charges est mince, plus vous aurez besoin de faire preuve d’initiative !
-Votre rendu pour cette dernière partie sera composé de :
+Votre rendu pour cette dernière partie sera composé de : <br>
 voir **src/Accueil.PNG , Identification.PNG, Publication.PNG, Article_en_attente.PNG et Choix_article.PNG** pour avoir une vue du site web lorsqu'il est hébergé.
 1. Un lien permettant d’accéder à la page d’accueil de votre site web. N’oubliez pas de fournir aussi tous les éléments utiles pour tester votre site, notamment nom d’utilisateur et mot de passe, si le site requiert une authentification. Attention, votre site web doit fonctionner sur le serveur de l’université.
 2. Une archive des pages web (php/html) ainsi qu’un nouveau dump de votre base (si celui-ci a été modifié après la partie 2) en précisant la nature des modifications.
