@@ -24,7 +24,7 @@ Le cahier des charges étant souvent très léger (un client ne sait pas toujour
 Votre rendu pour cette dernière partie sera composé de :
 1. Un lien permettant d’accéder à la page d’accueil de votre site web. N’oubliez pas de fournir aussi tous les éléments utiles pour tester votre site, notamment nom d’utilisateur et mot de passe, si le site requiert une authentification. Attention, votre site web doit fonctionner sur le serveur de l’université.
 2. Une archive des pages web (php/html) ainsi qu’un nouveau dump de votre base (si celui-ci a été modifié après la partie 2) en précisant la nature des modifications.
-3. Un rapport final de 5 à 10 pages environ obligatoirement au format pdf. Ce rapport contiendra :
+3. Un rapport final de 5 à 10 pages environ obligatoirement au format pdf. Ce rapport contiendra : <br>
     — Une petite présentation du projet avec un petit manuel utilisateur;
     — Une section technique reprenant les présentations des étapes 1 et 2;
     — Une description technique des fonctionnalités du site web, présentant notamment quelques unes des requêtes SQL utilisées (les plus intéressantes d’un point de vue fonctionnel ou technique), leur fonctionnement et leur utilité;
