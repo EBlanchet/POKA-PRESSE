@@ -4,6 +4,7 @@ POKA PRESSE souhaite se doter d'un intranet pour assurer une meilleure coopérat
 
 ## Consignes générales
 Le but du projet est d’aborder les différentes étapes de conception d’une base de données mise à disposition d’une application, depuis le cahier des charges du client jusqu’à l’implémentation d’un site web utilisant la base de données.
+voir **src/ProjetL2.pdf**
 
 ### Modélisation 
 La première étape consiste à modéliser sous la forme d’un schéma entité-association une base de données répondant aux attentes du cahier des charges du client, ici représenté par l’énoncé de votre sujet. Attention, le cahier des charges peut être incomplet ou contenir des ambiguïtés, comme ce serait le cas en situation réelle. Il est de votre responsabilité de demander des précisions à votre client lorsque nécessaire.
@@ -17,11 +18,13 @@ Lors de cette seconde étape, votre client pourra éventuellement préciser le c
 Second rendu :
 - dump complet de votre base (y compris les créations de tables); <br>
 - mini rapport avec le schéma relationnel corrigé, un court texte justifiant les types de données et contraintes choisies ainsi que votre réponse aux demandes supplémentaires du client.
+voir **src/Schema_relationnel.svg**
 
 ### Mise en place du site web
 Dans cette dernière étape, vous finirez de remplir votre base de données et vous mettrez en place la partie web de votre projet en respectant le cahier des charges fourni.
 Le cahier des charges étant souvent très léger (un client ne sait pas toujours très bien ce qu’il veut), vous ferez preuve d’initiative pour apporter des fonctionnalités additionnelles qui vous semblent utiles. Plus le cahier des charges est mince, plus vous aurez besoin de faire preuve d’initiative !
 Votre rendu pour cette dernière partie sera composé de :
+voir **src/Accueil.PNG , Identification.PNG, Publication.PNG, Article_en_attente.PNG et Choix_article.PNG** pour avoir une vue du site web lorsqu'il est hébergé.
 1. Un lien permettant d’accéder à la page d’accueil de votre site web. N’oubliez pas de fournir aussi tous les éléments utiles pour tester votre site, notamment nom d’utilisateur et mot de passe, si le site requiert une authentification. Attention, votre site web doit fonctionner sur le serveur de l’université.
 2. Une archive des pages web (php/html) ainsi qu’un nouveau dump de votre base (si celui-ci a été modifié après la partie 2) en précisant la nature des modifications.
 3. Un rapport final de 5 à 10 pages environ obligatoirement au format pdf. Ce rapport contiendra : <br>
